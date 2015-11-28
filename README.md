@@ -15,3 +15,6 @@ ancingahost
 ```
 
 there are also the `make boostrap` and `make docker` recipes these will bootstrap ansible (i.e. install python and ansible) and install docker on a debian host respectively
+
+[Please check out my blog for other associated miscellanea:](http://joshuacox.github.io/)
+[joshuacox.github.io](http://joshuacox.github.io/)
